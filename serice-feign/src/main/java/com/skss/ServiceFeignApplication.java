@@ -15,7 +15,7 @@ public class ServiceFeignApplication {
     public static void main(String[] args) {
         SpringApplication.run( ServiceFeignApplication.class, args );
 
-        //http://localhost:8765/hi?name=forezp
+        //  http://localhost:8765/hi?name=forezp
     }
 }
 
