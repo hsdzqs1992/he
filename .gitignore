@@ -7,5 +7,6 @@ service-ribbon/target
 serice-feign/sericefeign.iml
 serice-feign/target
 service-zuul/servicezuul.iml
-
+config-server/config-servertwo/target
+config-server/config-client/target
 
