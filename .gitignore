@@ -10,4 +10,8 @@ service-zuul/servicezuul.iml
 service-zuul/target
 config-server/config-servertwo/target
 config-server/config-client/target
+server-zipkin/serverzipkin.iml
+server-zipkin/service-hi/target
+server-zipkin/service-miya/target
+
 
