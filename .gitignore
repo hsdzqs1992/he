@@ -14,4 +14,6 @@ server-zipkin/serverzipkin.iml
 server-zipkin/service-hi/target
 server-zipkin/service-miya/target
 
+service-turbine/serviceturbine.iml
+service-turbine/target
 
