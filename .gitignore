@@ -6,6 +6,6 @@ eureka-server/target
 service-ribbon/target
 serice-feign/sericefeign.iml
 serice-feign/target
-
+service-zuul/servicezuul.iml
 
 
